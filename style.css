@@ -107,6 +107,9 @@ nav ul li a:hover::after{
     overflow: hidden;
     padding: 15px;
 }
+.ve{
+    display: none;
+}
 .work img{
     width: 100%;
     height: 290px;
